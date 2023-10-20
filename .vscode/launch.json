@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://lucidradar3579.github.io/complete-portfolio/",
+            "url": "https://lucidradar3579.github.io/lucidportfolio/",
             "webRoot": "${workspaceFolder}"
         }
     ]
