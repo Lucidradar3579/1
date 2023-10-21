@@ -221,7 +221,7 @@ header.sticky{
 }
 .box{
 	padding: 80px 40px 66px;
-	background: #2d343f;
+	background: #fff;
 	border-radius: 28px;
 	border: 1px solid transparent;
 	box-shadow: 0 0 5px var(--main-color);
