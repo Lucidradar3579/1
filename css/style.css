@@ -284,7 +284,7 @@ header.sticky{
 	margin-bottom: 1.4rem;
 }
 .row{
-	background: #2d343f;
+	background: #fff;
 	border-radius: 28px;
 	border: 1px solid transparent;
 	box-shadow: 0 0 5px var(--main-color);
@@ -342,7 +342,7 @@ form textarea{
 	border: none;
 	outline: none;
 	box-shadow: 0 0 5px var(--main-color);
-	background: #2d343f;
+	background: #fff;
 	color: var(--text-color);
 	margin-bottom: 20px;
 	border-radius: 8px;
